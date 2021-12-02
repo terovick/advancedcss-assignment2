@@ -75,12 +75,6 @@ body{
     border-radius: 100%;
 }
 
-.krug-inside span:nth-child(1){
-   
-}
-
-
-
 @keyframes growingc{
     0%{
         height: 0px;
